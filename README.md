@@ -57,9 +57,9 @@ Drop unnecessary columns and set the index.
 Visualize the correlation matrix using a heatmap to understand the relationships between features.
 Model Training and Evaluation
 The following steps outline the process of training and evaluating the models:
-1- Split the dataset into training and test sets.
-2- Train multiple models using cross-validation to find the best performing model.
-3- Evaluate the models on the test set and compare their performance using accuracy, confusion matrix, and classification report.
+1. Split the dataset into training and test sets.
+2. Train multiple models using cross-validation to find the best performing model.
+3. Evaluate the models on the test set and compare their performance using accuracy, confusion matrix, and classification report.
 
 # Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any feature requests, bug fixes, or improvements.
