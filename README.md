@@ -7,7 +7,7 @@ This project uses machine learning techniques to detect breast cancer based on v
 
 The goal of this project is to build and evaluate several classification models to predict whether a breast mass is malignant or benign. The models used in this project include:
 
-- Decision Tree Classifier
+- Decision Tree Classifier (CART)
 - Support Vector Machine (SVM)
 - Gaussian Naive Bayes (NB)
 - K-Nearest Neighbors (KNN)
