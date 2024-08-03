@@ -47,7 +47,7 @@ You can install the necessary dependencies using:
 
 ```bash
 `pip install numpy pandas matplotlib seaborn scikit-learn`
-
+```
 # Data Preprocessing
 Load the dataset and inspect the first few rows.
 Convert the diagnosis column to binary values (1 for malignant, 0 for benign).
