@@ -1,7 +1,7 @@
 # Breast Cacer detection using ML algorithms
 
 This project uses machine learning techniques to detect breast cancer based on various features extracted from breast mass biopsies. The dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
-Kaggle Dataset source: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+
 
 ## Project Overview
 
@@ -15,6 +15,8 @@ The goal of this project is to build and evaluate several classification models 
 ## Dataset
 
 The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) Data Set. It contains 569 instances of various features computed from breast mass biopsies.
+
+#### Kaggle Dataset source: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 ### Features
 
