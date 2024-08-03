@@ -1,3 +1,6 @@
+[![image](https://github.com/user-attachments/assets/92e0044b-3a3c-4675-ae37-1b387636303b)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nyit.edu%2Fnews%2Ffeatures%2Frecognizing_breast_cancer_awareness_month&psig=AOvVaw0d2OqJRQOmaenI5FEwyN0r&ust=1722813382827000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCrn5D62YcDFQAAAAAdAAAAABAJ)
+
+
 # Breast Cacer detection using ML algorithms
 
 This project uses machine learning techniques to detect breast cancer based on various features extracted from breast mass biopsies. The dataset contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
